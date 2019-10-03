@@ -1,0 +1,6 @@
+C:\Projetos C#\Exercise_Linq\Exercise_Linq\bin\Debug\Exercise_Linq.exe.config
+C:\Projetos C#\Exercise_Linq\Exercise_Linq\bin\Debug\Exercise_Linq.exe
+C:\Projetos C#\Exercise_Linq\Exercise_Linq\bin\Debug\Exercise_Linq.pdb
+C:\Projetos C#\Exercise_Linq\Exercise_Linq\obj\Debug\Exercise_Linq.csprojResolveAssemblyReference.cache
+C:\Projetos C#\Exercise_Linq\Exercise_Linq\obj\Debug\Exercise_Linq.exe
+C:\Projetos C#\Exercise_Linq\Exercise_Linq\obj\Debug\Exercise_Linq.pdb
